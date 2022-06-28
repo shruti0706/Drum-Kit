@@ -16,7 +16,7 @@ document.addEventListener("keypress",function(event){
   buttonAnimation(event.key);
 });
 
-//generate sound
+//generate sound 
 function MakeSound(key){
   switch(key){
     case "w":
